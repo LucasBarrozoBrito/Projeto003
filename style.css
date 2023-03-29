@@ -24,7 +24,7 @@
 }
 
 body{
-    background-color: var(--cor5);
+    background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 }
 
@@ -55,7 +55,7 @@ header > p{
     margin-top: 10px;
     max-width: 500px;
     margin: auto;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.850);
     margin-bottom: 20px;
     
@@ -63,8 +63,9 @@ header > p{
 }
 
 nav{
-    background-color: var(--cor5);
+    background-color:var(--cor5);
     padding: 9px;
+    margin-top: -21px;
 
 }
 
@@ -164,7 +165,7 @@ padding: 20px;
 p{
     text-indent: 25px;
     text-align: justify;
-    margin: 0px;
+    margin: 0px 10px 0px 10px;
 }
 
 img{
